@@ -1,2 +1,1 @@
-# My Cloud Project
-# My Cloud Project
+# Cloud Infrastructure Setup and Automation
